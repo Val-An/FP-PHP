@@ -12,8 +12,7 @@
 <body>
 <div class="wrapper">
     <header class="header">
-        <nav class="navbar bg-black navbar-expand-lg" data-bs-theme="dark"
-        ">
+        <nav class="navbar bg-black navbar-expand-lg" data-bs-theme="dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Navbar</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
