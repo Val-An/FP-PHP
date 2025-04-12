@@ -11,10 +11,15 @@ html, body {
     min-height: 100%;
     display: flex;
     flex-direction: column;
-    max-width: 900px;
+    /*max-width: 1600px;*/
+    /*margin: 0 auto;*/
 }
 
 main.main {
     flex: 1 1 auto;
 
+}
+
+.container-fluid {
+    width: 80%;
 }
