@@ -1,5 +1,7 @@
 <?php
 
+require 'funcs.php';
+
 $title = 'My Blog :: About';
 
 $post = '<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eveniet facere harum quod? Ab
@@ -36,5 +38,5 @@ $recent_posts = [
 
 ];
 
-require_once 'about.tpl.php';
+require_once 'app/views/about.tpl.php';
 
